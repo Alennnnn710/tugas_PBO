@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.hero{
+    height: 100%;
+    width: 100%;
+    background-color: bisque;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+}
+.sign-up{
+    width: 310px;
+    height: 460px;
+    position: relative;
+    margin: 6% auto;
+    background: white;
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 4px 4px 4px 0px rgba(45, 110, 59, 0.849)
+}
+.judul{
+    font-size: 115px;
+    margin: 25px;
+    height: 38px;
+    color: #0e790ef3;
+    font-family: Poppins;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.border-box{
+    width: 275px;
+    padding: 20px;
+    margin-top: 10px;
+    border-radius: 10px;
+    background: #FFF;
+    border: 1px solid rgba(45, 110, 59, 0.849);
+    box-shadow: 0px 4px 4px 0px rgba(45, 110, 59, 0.849);
+}
+.signup-btn{
+    margin-top: 10px;
+    width: 205px;
+    padding: 12px;
+    border-radius: 2px;
+    border: 1px solid #000;
+    background: #0A6902;
+    color: beige;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 4px 0px rgba(45, 110, 59, 0.849);
+    cursor: pointer;
+}
